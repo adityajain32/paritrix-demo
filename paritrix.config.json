@@ -1,4 +1,9 @@
 {
-  "tokens": ["src/styles/tokens.css"],
-  "root": "src"
+  "tokens": [
+    "src/styles/tokens.css"
+  ],
+  "root": "src",
+  "figma": [
+    "https://www.figma.com/design/cuAOfrFNU2mdX4hrevlDh0/STEM-Components-V4"
+  ]
 }
