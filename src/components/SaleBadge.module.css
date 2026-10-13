@@ -1,0 +1,8 @@
+.badge {
+  align-self: flex-start;
+  padding: 4px 12px;
+  background: #e5481b;
+  color: #ffffff;
+  border-radius: 13px;
+  font-size: 14px;
+}
