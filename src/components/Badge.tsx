@@ -6,9 +6,9 @@ export function Badge({ children }: { children: ReactNode }) {
       style={{
         display: "inline-block",
         padding: "2px 8px",
-        borderRadius: 999,
-        background: "#E5481B",
-        color: "#FFFFFF",
+        borderRadius: "var(--radius-full)",
+        background: "var(--color-sale)",
+        color: "var(--color-surface)",
         fontSize: 12,
         fontWeight: 600,
       }}
