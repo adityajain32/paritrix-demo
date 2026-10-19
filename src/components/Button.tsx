@@ -6,6 +6,7 @@ export type ButtonProps = {
   size?: "small" | "medium";
 } & ButtonHTMLAttributes<HTMLButtonElement>;
 
+/** Northwind's button. */
 export function Button({ variant = "primary", size = "medium", className, ...rest }: ButtonProps) {
   return <button className={[styles.button, styles[variant], styles[size], className].filter(Boolean).join(" ")} {...rest} />;
 }
