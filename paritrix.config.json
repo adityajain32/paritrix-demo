@@ -5,5 +5,7 @@
   "root": "src",
   "figma": [
     "https://www.figma.com/design/cuAOfrFNU2mdX4hrevlDh0/STEM-Components-V4"
-  ]
+  ],
+  "sourceOfTruth": "code",
+  "role": "design-system"
 }
